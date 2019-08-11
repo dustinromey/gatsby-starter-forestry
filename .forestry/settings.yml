@@ -7,11 +7,6 @@ sections:
 - type: heading
   label: Content
 - type: directory
-  path: ''
-  label: Product Categories
-  create: all
-  match: "**/*"
-- type: directory
   path: src/pages
   label: Pages
   create: documents
